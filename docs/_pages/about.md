@@ -19,7 +19,7 @@ You can also visualize your own custom GPML and KGML files. As long as your data
 		  <p><a href="{{ '/publications' | relative_url }}" style="color: white;">There is nothing to cite yet</a></p>
 		  <br>
 		  <p style="font-size: 30px"><b>Version</b></p>
-		  <p><a href="{{ '/releases' | relative_url }}" style="color: white;">Version 0.99.0</a></p>
+		  <p><a href="{{ '/releases' | relative_url }}" style="color: white;">Version {{ site.data.version.number }}</a></p>
 		  <br>
 		  <p style="font-size: 30px"><b>Licence</b></p>
 		  <p><a href="https://github.com/SyNUM-lab/PinPath/blob/devel/LICENSE.md" target="_blank" style="color: white;">MIT License</a></p>
