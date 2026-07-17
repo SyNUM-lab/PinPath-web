@@ -16,7 +16,7 @@ layout: pages
       <h3 class="card-title" style = "color:#084594">Help with R package</h3>
       <ul style = "font-size: 18px">
 			<li><a href="{{ '/r-package' | relative_url }}">Quick start and tutorials</a></li>
-			<li><a href="{{ '/assets/manual/PinPath_0.99.0.pdf' | relative_url }}" target="_blank">Documentation</a></li>
+			<li><a href="{{ '/assets/manual/PinPath_0.99.4.pdf' | relative_url }}" target="_blank">Documentation</a></li>
 	  </ul>
     </div>
   </div>
