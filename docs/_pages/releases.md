@@ -9,6 +9,22 @@ layout: pages
   <div class="col-sm-12 px-3">
 	  <div class="jumbotron p-5 h-100" style="text-align: justify">
 	      <p class="lead">April 23, 2026 |</p>
+		  <h1><b>Version 0.99.4</b></h1>
+		  <ul>
+		  	<li>If no visualization variables are provided, GPML2Network() and KGML2Network() functions will generate plain network diagram</li>
+		  	<li>Package description updated</li>
+		  </ul>
+	  </div>
+  </div>
+</div>
+<br />
+<br />
+
+<div class="container px-1">
+<div class="row">
+  <div class="col-sm-12 px-3">
+	  <div class="jumbotron p-5 h-100" style="text-align: justify">
+	      <p class="lead">April 23, 2026 |</p>
 		  <h1><b>Version 0.99.3</b></h1>
 		  <ul>
 		  	<li>docs folder removed and website moved to https://synum-lab.github.io/PinPath-web/</li>
