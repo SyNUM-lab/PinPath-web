@@ -8,6 +8,22 @@ layout: pages
 <div class="row">
   <div class="col-sm-12 px-3">
 	  <div class="jumbotron p-5 h-100" style="text-align: justify">
+	      <p class="lead">October 15, 2026 |</p>
+		  <h1><b>Version 0.99.6</b></h1>
+		  <ul>
+		  	<li>Improved ID mapping for KEGG pathways.</li>
+		  	<li>Darker color palette for the default qualitative color scale.</li>
+		  </ul>
+	  </div>
+  </div>
+</div>
+<br />
+<br />
+
+<div class="container px-1">
+<div class="row">
+  <div class="col-sm-12 px-3">
+	  <div class="jumbotron p-5 h-100" style="text-align: justify">
 	      <p class="lead">September 29, 2026 |</p>
 		  <h1><b>Version 0.99.5</b></h1>
 		  <ul>
