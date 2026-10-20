@@ -102,6 +102,7 @@ pathVis <- PinPath::drawKGML(
 	featureIDs = lung_expr$GeneID,
 	colorVar = lung_expr[,c("log2FC", "Significant")],
 	colorList = colorList,
+	multiMapping = FALSE,
 	nodeTable = TRUE,
 	legend = TRUE)
 ```
